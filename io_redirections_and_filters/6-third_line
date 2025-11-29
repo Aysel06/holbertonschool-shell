@@ -1,6 +1,2 @@
 #!/bin/bash
-
-if [ -f iacta ]
-then
-    head -n 3 iacta | tail -n 1
-fi
+if [ -f iacta ]; then head -n 3 iacta | tail -n 1; fi
