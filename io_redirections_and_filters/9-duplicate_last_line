@@ -1,3 +1,2 @@
 #!/bin/bash
-# Faylın son sətrini oxuyub eyni fayla əlavə edir
 tail -n 1 iacta >> iacta
