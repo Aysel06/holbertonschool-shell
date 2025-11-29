@@ -1,0 +1,3 @@
+#!/bin/bash
+filename='*\047\"Best School\"\047\*$\?\*\*\*\*\*:)'
+echo "Best School" > "$filename"
